@@ -18,7 +18,7 @@ Repository with Jupyter notebooks used in the Uncertainty Analysis course, Novem
 
 **confidence2.ipynb**: demonstration of the meaning of CI
 
-**outliers.ipynb**: identifying outliers using Chavenet's method
+**outliers.ipynb**: identifying outliers using Chauvenet's method
 
 **errorbars.ipynb**: how to plot error bars in Matplotlib
 
