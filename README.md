@@ -1,5 +1,8 @@
 # UQ-course-pub
-UQ-course public repo
+
+Repository with Jupyter notebooks used in the Uncertainty Analysis course, November 2022 KTH Stockholm
+
+*Saleh Rezaeiravesh and Philipp Schlatter*
 
 **jupyter.ipynb**: Test that the Jupyter installation works
 
