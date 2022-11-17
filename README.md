@@ -26,3 +26,16 @@ Repository with Jupyter notebooks used in the Uncertainty Analysis course, Novem
 
 **realdata.ipynb**: read some real turbulence data
 
+**pertFWD_pub.ipynb**: UQ FWD problem with perturbation method
+
+**lsa_pub.ipynb**: Local sensitivity analysis
+
+**sampFWD_pub.ipynb**: Random sampling methods for UQ FWD problems
+
+**pce_pub.ipynb**: Polynomial Chaos Expansion
+
+**gsa_pub.ipynb**: Global sensitivity analysis
+
+**lse_pub.ipynb**: Least squares methods for inverse problems
+
+**FWD_compare.ipynb**: Comparing different methods for a UQ FWD problem
